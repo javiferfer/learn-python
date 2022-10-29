@@ -2,18 +2,18 @@
 
 ## Concepts
 
-- Python type
+* Python type
 https://realpython.com/python-type-checking/
 
-- Dataclass
+* Dataclass
 https://realpython.com/python-data-classes/
 
-- @classmethod and @staticmethod
+* @classmethod and @staticmethod
 https://realpython.com/instance-class-and-static-methods-demystified/
 
-- Testing:
-1. Pytest: https://github.com/javiferfer/python-testing-example
-2. Unittest
+* Testing:
+** Pytest: https://github.com/javiferfer/python-testing-example
+** Unittest
 
 - Yield function
 https://es.stackoverflow.com/questions/6048/cu%C3%A1l-es-el-funcionamiento-de-yield-en-python
